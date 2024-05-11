@@ -1,0 +1,67 @@
+body {
+    font-family: sans-serif;
+}
+img {
+    width: 1180px;
+    margin-left: 80px;
+    position: absolute;
+    top: 0px;
+}
+.glovo {
+    margin-left: 50px;
+    width: 80px;
+    height: 80px;
+    margin-top: 580px;
+}
+p {
+    margin-left: 140px;
+    margin-top: 600px;
+}
+p a {
+    text-decoration: none;
+    color: #007bff;
+}
+h2 {
+    color: #1a1a1a;
+    font-size: 30px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    position: absolute;
+    top: 630px;
+    left: 470px;
+}
+footer img {
+    margin-top: 700px;
+}
+.glovo2 {
+    width: 200px;
+    margin-top: 800px;
+    margin-left: 200px;
+}
+.appstore {
+    width: 135px;
+    margin-top: 890px;
+    margin-left: 150px;
+}
+.googleplay {
+    width: 145px;
+    margin-top: 890px;
+    margin-left: 305px;
+}
+.bolt-food {
+    width: 270px;
+    margin-top: 870px;
+    margin-left: 900px;
+}
+.appstore2 {
+    width: 135px;
+    margin-top: 980px;
+    margin-left: 890px;
+}
+.googleplay2 {
+    width: 145px;
+    margin-top: 980px;
+    margin-left: 1045px;
+}
